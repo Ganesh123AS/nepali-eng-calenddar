@@ -128,15 +128,11 @@ This project is licensed under the Ganesh Bhatt - see the [LICENSE](LICENSE) fil
 - **React Community**: For the amazing ecosystem and tools.
 
 ## 📬 Contact
-<div style="display: flex; align-items: center; justify-content: space-between;">
-  <div>
-    👤 <strong>Ganesh Bhatt</strong><br>
-    - GitHub: <a href="https://github.com/Ganesh123AS">github.com/Ganesh123AS</a><br>
-    - Email: ganeshbhatt818@gmail.com<br>
-    - LinkedIn: <a href="https://linkedin.com/in/ganesh123as">linkedin.com/in/ganesh123as</a>
-  </div>
-  <img src="./src/assets/pp.jpg" alt="Profile" style="width: 60px; height: 60px; border-radius: 50%;">
-</div>
+| 👤 **Ganesh Bhatt**  
+- GitHub: [github.com/Ganesh123AS](https://github.com/Ganesh123AS)  
+- Email: ganeshbhatt818@gmail.com  
+- LinkedIn: [linkedin.com/in/ganesh123as](https://linkedin.com/in/ganesh123as)  
+| <img src="https://your-image-url.com/pp.jpg" width="80" /> |
 ---
 
 🌟 **Star this repository** if you find it useful! Feel free to reach out with feedback or suggestions.
