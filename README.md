@@ -21,7 +21,7 @@ A modern, responsive, and customizable **React calendar component** that support
 
 ## 📸 Screenshot
 
-![Nepali Calendar](https://via.placeholder.com/600x400.png?text=Nepali+Calendar+Preview)
+![Nepali Calendar](./assets/calendar-preview.png)
 
 ## 🛠 Installation
 
@@ -135,7 +135,7 @@ Contributions are welcome! 🎉
 
 ## 📜 License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the Ganesh Bhatt - see the [LICENSE](LICENSE) file for details.
 
 ## 🙏 Acknowledgements
 
