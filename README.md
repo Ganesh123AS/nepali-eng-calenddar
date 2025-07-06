@@ -21,7 +21,7 @@ A modern, responsive, and customizable **React calendar component** that support
 
 ## 📸 Screenshot
 
-![Nepali Calendar](./assets/calendar-preview.png)
+![Nepali Calendar](./src/assets/calendar.png)
 
 ## 🛠 Installation
 
