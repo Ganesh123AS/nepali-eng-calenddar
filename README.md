@@ -64,29 +64,10 @@ The `onChange` callback returns an object like:
 ## 🎨 Styling
 
 The calendar uses a clean, modern design with:
-- **Tailwind-inspired CSS**: Responsive grid system (`lg-4`, `lg-6`, `lg-12`) for width control.
+- **Custom CSS**: Responsive grid system
 - **Smooth Animations**: Fade-in effect for the calendar popup.
 - **Customizable Themes**: Light (`aliceblue` background) or dark variants.
 - **Responsive Layout**: Calendar width matches the input field, controlled by the `size` prop.
-
-Customize styles in `styles.css`:
-```css
-.calendar-app {
-    position: absolute;
-    top: 100%;
-    left: 0;
-    z-index: 1000;
-    border: 1px solid #e5e7eb;
-    border-radius: 8px;
-    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
-    padding: 16px;
-    background: aliceblue;
-    margin-top: 8px;
-    width: 100%;
-    max-width: 100%;
-    animation: fadeIn 0.2s ease-in;
-}
-```
 
 ## 📅 Calendar Data
 
@@ -105,22 +86,25 @@ The B.S. calendar uses a custom 365-day structure for 2070–2081 B.S., defined 
 ### Dependencies
 - `react`: ^18.2.0
 - `typescript`: ^4.9.0
-- `bikram-sambat-js`: For B.S./A.D. date conversions
+- `bikram-sambat-js`: For B.S./A.D. date conversions  ### will be soon chnaged to custom date convertor
 
 ### Project Structure
 ```
 nepali-calendar/
 ├── src/
+│   ├── assets/
 │   ├── components/
-│   │   └── NepaliCalendar.tsx
-│   ├── pattern.ts
+│   ├── constants/
+│   ├── types/
+│   ├── utils/
+│   ├── validator/    ### for testing
 │   ├── styles.css
 ├── package.json
 ├── README.md
 ```
 
 ### Build
-```bash
+```
 npm run build
 ```
 
@@ -146,9 +130,9 @@ This project is licensed under the Ganesh Bhatt - see the [LICENSE](LICENSE) fil
 ## 📬 Contact
 
 👤 **Ganesh Bhatt**  
-- GitHub: [github.com/ganeshbhatt](https://github.com/ganeshbhatt)  
-- Email: ganeshbhatt@example.com  
-- LinkedIn: [linkedin.com/in/ganeshbhatt](https://linkedin.com/in/ganeshbhatt)
+- GitHub: [github.com/ganeshbhatt](https://github.com/Ganesh123AS)  
+- Email: ganeshbhatt818@gmail.com  
+- LinkedIn: [linkedin.com/in/ganesh123as](https://linkedin.com/in/ganesh123as)
 
 ---
 
