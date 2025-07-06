@@ -132,7 +132,7 @@ This project is licensed under the Ganesh Bhatt - see the [LICENSE](LICENSE) fil
 - GitHub: [github.com/Ganesh123AS](https://github.com/Ganesh123AS)  
 - Email: ganeshbhatt818@gmail.com  
 - LinkedIn: [linkedin.com/in/ganesh123as](https://linkedin.com/in/ganesh123as)  
-| <img src="https://your-image-url.com/pp.jpg" width="80" /> |
+| <img src="./src/assets/pp.jpg" width="60" /> |
 ---
 
 🌟 **Star this repository** if you find it useful! Feel free to reach out with feedback or suggestions.
